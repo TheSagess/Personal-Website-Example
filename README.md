@@ -7,6 +7,8 @@
 
 + You do not have to conecrn yourself with the stress
 
++ This is a flask app btw, so in most cases I would suggest running in a venv enviorment on any linux distribution. [On windows this is a non issue]
+
 
 ## Support Me
 
