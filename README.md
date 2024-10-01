@@ -43,3 +43,5 @@
 + Please use this to base other projects off, it makes me feel good knowing I helped people 
 
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G2145GJR)
+
