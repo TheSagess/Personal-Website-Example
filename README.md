@@ -16,6 +16,10 @@
 
 + Discord: https://vajeservices.xyz/discord
 
++ Donate to me: https//vajeservices.xyz/supportme
+
++ Or Do It through Ko-fi: https://ko-fi.com/donskyblock
+
 + General Support: https://vajeservices.xyz/supportme
 
 
